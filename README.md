@@ -1,3 +1,4 @@
 # GitConsoleTest
 AAAAh!
 Baaaa!
+Caaa!
